@@ -1,0 +1,10 @@
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.Properties.Resources.resources
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.csproj.GenerateResource.Cache
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\bin\Debug\quanly_thuoc.exe
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\bin\Debug\quanly_thuoc.pdb
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.exe
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.pdb
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.frm_thuoc.resources
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.frmHoadon.resources
+D:\Codes\Visual Basic .NET\quanlytoathuoc\quanly_thuoc\obj\Debug\quanly_thuoc.frmmain.resources
